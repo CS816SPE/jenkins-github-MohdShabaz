@@ -1,4 +1,4 @@
-//assign 1
+//assign 1 - Mohd Shabaz
 import java.io.*;
 import java.util.*;
 public class Hello{
