@@ -1,4 +1,4 @@
-//assign 1 - Mohd Shabaz, IMT2015028!
+//assign 1 - Mohd Shabaz, IMT2015028.
 import java.io.*;
 import java.util.*;
 public class Hello{
